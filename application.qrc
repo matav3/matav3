@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/open.ico</file>
+        <file>img/arrow.png</file>
+        <file>img/deleteselected.png</file>
+        <file>img/hand.png</file>
+        <file>img/zoomin.png</file>
+        <file>img/zoomout.png</file>
+        <file>img/addvalue.png</file>
+        <file>img/ocup.png</file>
+    </qresource>
+</RCC>
